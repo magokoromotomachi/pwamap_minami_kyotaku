@@ -2,7 +2,7 @@
   "title": "南区居宅マップ",
   "description": "南区の居宅を地図上で確認できます。",
   "form_url": "",
-  "logo_image_url": "https://magokoromotomachi.github.io/pwamap_urawa_kyotaku/min_pwamap_logo95x95.svg",
+  "logo_image_url": "https://magokoromotomachi.github.io/pwamap_minami_kyotaku/min_pwamap_logo95x95.svg",
   "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
   "primary_color": "#d2691e",
   "orderby": "distance"
