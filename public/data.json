@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J85",
+  "range": "'スポットデータ'!A1:J84",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -18,22 +18,13 @@
       "2022/05/11 14:46:34",
       "オフィス",
       "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
-      "35.874083",
-      "139.655129",
-      "まごころ浦和元町",
-      "048-885-5700",
-      "",
-      "mago_motomachi",
-      "https://geolonia.com"
-    ],
-    [
-      "",
-      "オフィス",
-      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
       "35.852314",
       "139.681427",
       "ケアワークわかくさ",
-      "048-813-3976"
+      "048-813-3976",
+      "",
+      "mago_motomachi",
+      "https://geolonia.com"
     ],
     [
       "",
@@ -120,15 +111,6 @@
       "",
       "オフィス",
       "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
-      "35.85083",
-      "139.64592",
-      "医心館　居宅介護支援事業所　武蔵浦和",
-      "048-764-8830"
-    ],
-    [
-      "",
-      "オフィス",
-      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
       "35.841427",
       "139.652206",
       "居宅介護支援事業所　ソラスト武蔵浦和",
@@ -149,7 +131,7 @@
       "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
       "35.844391",
       "139.655914",
-      "マエノ薬局",
+      "マエノ薬局　",
       "048-866-8969"
     ],
     [
@@ -327,15 +309,6 @@
       "",
       "オフィス",
       "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
-      "35.830288",
-      "139.644623",
-      "浦和・あおいホームケアサービス",
-      "048-872-2111"
-    ],
-    [
-      "",
-      "オフィス",
-      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
       "35.838165",
       "139.62648",
       "のぞみケアマネジメント",
@@ -412,6 +385,24 @@
       "139.695435",
       "居宅介護支援事業所　あおぞら中央",
       "048-799-3132"
+    ],
+    [
+      "",
+      "オフィス",
+      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
+      "35.844311",
+      "139.653564",
+      "ことぶきケアプランセンター",
+      "048-717-8648"
+    ],
+    [
+      "",
+      "オフィス",
+      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
+      "35.844391",
+      "139.655914",
+      "マエノ薬局　",
+      "048-866-8969"
     ]
   ]
 }
